@@ -54,6 +54,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
+### echo-server.py
+![exp1_server](https://github.com/user-attachments/assets/a65d52ea-9066-4b57-aec9-edea12c16448)
+
+### echo-client.py
+![exp1_client](https://github.com/user-attachments/assets/df122093-d4bc-4532-852e-bd3699f62c0e)
 
 ## RESULT:
 The program is executed successfully
