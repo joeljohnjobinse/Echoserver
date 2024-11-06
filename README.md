@@ -55,10 +55,10 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 ### echo-server.py
-![exp1_server](https://github.com/user-attachments/assets/d6a83202-cf41-48d5-b696-79f455d8fa5a)
+![exp1_server](https://github.com/user-attachments/assets/37ebbb0b-dc0f-47a5-912a-213378287e4b)
 
 ### echo-client.py
-![exp1_client](https://github.com/user-attachments/assets/7db90285-bf0e-433c-a9c2-064f6f72c301)
+![exp1_client](https://github.com/user-attachments/assets/25ed9dd0-3315-4b90-9236-d560a417efd4)
 
 ## RESULT:
 The program is executed successfully
